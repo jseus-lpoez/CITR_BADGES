@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 15257e8c40de9d14e92beb57ecc477ec
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 377670
+  packageName: "Gomesda \u2013 Cozy Spring (Free Orchestral Mini Pack)"
+  packageVersion: 1.0
+  assetPath: "Assets/Gomesda \u2013 Cozy Spring (Free Orchestral Mini Pack)/3. Dew
+    on the Grass \u2013 Cozy Spring Orchestral Theme \u2013 Em 70 bpm/Stems/3. Stem
+    Dew on the Grass brass.wav"
+  uploadId: 911180

@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 7da8e4d47428902408e4bba7e2b3ddc4
+AudioImporter:
+  externalObjects: {}
+  serializedVersion: 8
+  defaultSettings:
+    serializedVersion: 2
+    loadType: 0
+    sampleRateSetting: 0
+    sampleRateOverride: 44100
+    compressionFormat: 1
+    quality: 1
+    conversionMode: 0
+    preloadAudioData: 0
+  platformSettingOverrides: {}
+  forceToMono: 0
+  normalize: 1
+  loadInBackground: 0
+  ambisonic: 0
+  3D: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 377670
+  packageName: "Gomesda \u2013 Cozy Spring (Free Orchestral Mini Pack)"
+  packageVersion: 1.0
+  assetPath: "Assets/Gomesda \u2013 Cozy Spring (Free Orchestral Mini Pack)/2. Gentle
+    Breeze \u2013 Cozy Spring Orchestral Theme \u2013 B 90 bpm/Stems/2. Gentle Breeze
+    strings.wav"
+  uploadId: 911180

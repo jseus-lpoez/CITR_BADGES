@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/SceneOnee.unity
+    guid: 11060488f22fde14fa5f266ea8bb6b68
+  - enabled: 0
+    path: Assets/Scenes/SceneTwo.unity
+    guid: a03609f0a0f5b4d47b1c98744c8e6b44
+  - enabled: 1
+    path: Assets/Scenes/LabScene.unity
+    guid: af108f9974965444ebd84ee27a7b9302
+  - enabled: 0
+    path: Assets/3DVideo1.unity
+    guid: bf7d1cdaafb079344bfe26d95586b359
+  - enabled: 1
+    path: Assets/Scenes/HarvestScene.unity
+    guid: 209181f58c5e6f64795a1186fa804826
+  - enabled: 1
+    path: Assets/Scenes/CottonGinScene.unity
+    guid: c812bcdf3223e304fae1e7afce445147
+  - enabled: 1
+    path: Assets/Scenes/KnittingScene.unity
+    guid: b1603251be077754aa85741e38c437cf
+  - enabled: 1
+    path: Assets/Scenes/DigitalPrintingScene.unity
+    guid: c26614f241d97bb4497a7ff1a140b81c
+  - enabled: 1
+    path: Assets/Scenes/Question_Harvest.unity
+    guid: 4bf5c4263e65bc341906efc387b1a96d
+  - enabled: 1
+    path: Assets/Scenes/Question_Cotton_Gin.unity
+    guid: f3c9d5c8a8c0c534598a8a8db83937ec
+  - enabled: 1
+    path: Assets/Scenes/Question_Digital_Printing.unity
+    guid: 7128b5e5e9034a143a88733014480c31
+  - enabled: 1
+    path: Assets/Scenes/Question_Knitting.unity
+    guid: a394cb9cf2ec7d54387da20bdd123252
+  - enabled: 1
+    path: Assets/Scenes/Question_Screen_Printing.unity
+    guid: f238b249ec93b96428eaf73dd36a6799
+  - enabled: 1
+    path: Assets/Scenes/DyeingScene.unity
+    guid: 904ba3f28f894f340a6599eaef91779f
+  - enabled: 1
+    path: Assets/Scenes/Question_Dyeing.unity
+    guid: a25da5e06f21d804dbdc7b3864a0f098
+  - enabled: 1
+    path: Assets/Scenes/SpinningScene.unity
+    guid: dce3c7a0edbfc524097e688ba9056ab5
+  - enabled: 1
+    path: Assets/Scenes/ScreenPrintingScene.unity
+    guid: f65872d3aae20c948b6417a2498f407c
+  - enabled: 1
+    path: Assets/Scenes/Question_Spinning.unity
+    guid: f5e61c92d897e3a41a45714491fcc206
+  - enabled: 0
+    path: Assets/Scenes/unused/CutSewScene.unity
+    guid: 6a4c3348c451f66488718e2f15795ffa
+  - enabled: 0
+    path: Assets/Scenes/unused/Question_CutSew.unity
+    guid: 7d06e1f35deda294dab12a08c18eedb1
+  - enabled: 1
+    path: Assets/Scenes/ShirtAssemblingScene.unity
+    guid: 5eecfa7ca5161a34caacaa6c737c8874
+  - enabled: 1
+    path: Assets/Scenes/Question_Shirt_Assembly.unity
+    guid: 6f658cd7f2f65eb468aedb22643d251d
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 29805b2d1a4b0d24ca3c0adb64e4237d, type: 2}
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9ae58f1ea39f15147affb94bd4fe5367, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 4093d4dd3bcfa754ebd81075ceab4eb9, type: 2}
